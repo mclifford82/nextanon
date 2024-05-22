@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "name": "There is a Way Out",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://meet.google.com/nje-jmni-hhb",
+        "meeting_service": "Google Meet",
+        "meeting_pw": "None",
+        "meeting_day": 1,
+        "meeting_time": "20:00",
+        "meeting_tz": "EST",
+        "meeting_notes": "This is a meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
+    },
+    {
+        "id": 2,
+        "name": "There is a Way Out",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://meet.google.com/nje-jmni-hhb",
+        "meeting_service": "Google Meet",
+        "meeting_pw": "None",
+        "meeting_day": 3,
+        "meeting_time": "20:00",
+        "meeting_tz": "EST",
+        "meeting_notes": "This is a meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
+    },
+    {
+        "id": 3,
+        "name": "There is a Way Out",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://meet.google.com/nje-jmni-hhb",
+        "meeting_service": "Google Meet",
+        "meeting_pw": "None",
+        "meeting_day": 5,
+        "meeting_time": "20:00",
+        "meeting_tz": "EST",
+        "meeting_notes": "NOTE: Fridays are informal fun open-mic hangouts, compared to the traditional self-help meeting format. We will still hold space for those who would like to share."
+    },
+    {
+        "id": 4,
+        "name": "Let's Talk Kratom",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://mountainside.com/resources/support-groups/",
+        "meeting_service": "Microsoft Teams",
+        "meeting_pw": "None",
+        "meeting_day": 2,
+        "meeting_time": "19:00",
+        "meeting_tz": "EST",
+        "meeting_notes": "Join us for an exploratory and nonjudgmental discussion on how kratom is affecting your mental and physical health."
+    },
+    {
+        "id": 5,
+        "name": "Kratom Anonymous",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://zoom.us/j/71704829937",
+        "meeting_service": "Zoom",
+        "meeting_pw": "nokratom",
+        "meeting_day": 3,
+        "meeting_time": "21:30",
+        "meeting_tz": "EST",
+        "meeting_notes": "Kratom 12 Step Program. We are a group of people who have found a solution to our addiction to Kratom."
+    },
+    {
+        "id": 6,
+        "name": "Kratom Anonymous",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://zoom.us/j/71704829937",
+        "meeting_service": "Zoom",
+        "meeting_pw": "nokratom",
+        "meeting_day": 6,
+        "meeting_time": "17:00",
+        "meeting_tz": "EST",
+        "meeting_notes": "Kratom 12 Step Program. We are a group of people who have found a solution to our addiction to Kratom."
+    },
+    {
+        "id": 7,
+        "name": "Dopey Kratom",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://zoom.us/j/804300586",
+        "meeting_service": "Zoom",
+        "meeting_pw": "toodles",
+        "meeting_day": 0,
+        "meeting_time": "15:00",
+        "meeting_tz": "EST",
+        "meeting_notes": "Join us for a supportive and nonjudgmental meeting for those struggling with Kratom addiction."
+    },
+    {
+        "name": "Dopey Kratom",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://zoom.us/j/804300586",
+        "meeting_service": "Zoom",
+        "meeting_pw": "toodles",
+        "meeting_day": 4,
+        "meeting_time": "19:00",
+        "meeting_tz": "EST",
+        "meeting_notes": "Join us for a supportive and nonjudgmental meeting for those struggling with Kratom addiction."
+    },
+    {
+        "name": "Quitting Kratom",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://meet.google.com/rcq-rote-kmg",
+        "meeting_service": "Google Meet",
+        "meeting_pw": "None",
+        "meeting_day": 6,
+        "meeting_time": "10:00",
+        "meeting_tz": "EST",
+        "meeting_notes": "Join us for a supportive and nonjudgmental meeting for those struggling with Kratom addiction."
+    },
+    {
+        "name": "Hawaii AA Ohana",
+        "meeting_type": "AA",
+        "meeting_link": "https://us02web.zoom.us/j/2839146879",
+        "meeting_service": "Zoom",
+        "meeting_pw": "None",
+        "meeting_day": 7,
+        "meeting_time": "23:00",
+        "meeting_tz": "EST",
+        "meeting_notes": "Our group is based in Hawaii and in keeping with the spirit of 'aloha' we welcome attendees and members from all over the world. We meet every day, twice a day, at 8am and 8pm Hawaii time."
+    }
+]
