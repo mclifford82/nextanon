@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>NextAnon - find your next virtual meeting, quick</h1>
+      <h1>NextAnon - find your next virtual support meeting, quick</h1>
       <div className="cards">
         {meetings.map(meeting => (
           <MeetingCard key={meeting.id} meeting={meeting} />

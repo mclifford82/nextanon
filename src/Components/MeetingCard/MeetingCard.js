@@ -13,7 +13,7 @@ function MeetingCard({ meeting: m }) {
     <article className="information card">
       <h2 class="title">{m.name}</h2>
       <span className="tag">{m.meeting_type}</span>
-      <p>{numberToDay(m.meeting_day)} @ {getDisplayTimeFromTwentyFourHourTime(m.meeting_time)} {m.meeting_tz}</p>
+      <p className="smol">{numberToDay(m.meeting_day)} @ {getDisplayTimeFromTwentyFourHourTime(m.meeting_time)} {m.meeting_tz}</p>
       <p className="info">{m.meeting_notes}</p>
       <button class="button">
         <span>Join Meeting</span>
@@ -22,7 +22,7 @@ function MeetingCard({ meeting: m }) {
             <path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
           </svg>
       </button>
-      <p>Password: {m.meeting_pw}</p>
+      <p className="smol">Password: {m.meeting_pw}</p>
     </article>
   );
 }
