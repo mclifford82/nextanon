@@ -104,16 +104,5 @@
         "meeting_time": "10:00",
         "meeting_tz": "EST",
         "meeting_notes": "Join us for a supportive and nonjudgmental meeting for those struggling with Kratom addiction."
-    },
-    {
-        "name": "Hawaii AA Ohana",
-        "meeting_type": "AA",
-        "meeting_link": "https://us02web.zoom.us/j/2839146879",
-        "meeting_service": "Zoom",
-        "meeting_pw": "None",
-        "meeting_day": 7,
-        "meeting_time": "23:00",
-        "meeting_tz": "EST",
-        "meeting_notes": "Our group is based in Hawaii and in keeping with the spirit of 'aloha' we welcome attendees and members from all over the world. We meet every day, twice a day, at 8am and 8pm Hawaii time."
     }
 ]
