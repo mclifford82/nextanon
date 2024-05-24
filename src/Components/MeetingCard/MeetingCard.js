@@ -1,6 +1,6 @@
 import React from 'react';
 import './MeetingCard.scss'; // Import CSS for styling
-import { getDisplayTimeFromTwentyFourHourTime } from '../../utils/utils'; // Import function to convert 24-hour time to 12-hour time
+import { getDisplayTimeFromTwentyFourHourTime, formatZoomMeetingCode } from '../../utils/utils'; // Import function to convert 24-hour time to 12-hour time
 
 // Function to convert day number to day name
 function numberToDay(number) {
@@ -15,14 +15,11 @@ function MeetingCard({ meeting: m }) {
       <span className="tag">{m.meeting_type}</span>
       <p className="smol">{numberToDay(m.meeting_day)} @ {getDisplayTimeFromTwentyFourHourTime(m.meeting_time)} {m.meeting_tz}</p>
       <p className="info">{m.meeting_notes}</p>
-      <button className="button">
-        <span>Join Meeting</span>
-          <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
-            <path d="M0 0h24v24H0V0z" fill="none" />
-            <path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
-          </svg>
-      </button>
+      <p className="smol">{m.meeting_service}: { m.meeting_service == "Zoom" ? formatZoomMeetingCode(m.meeting_service_code) : m.meeting_service_code }</p>
       <p className="smol">Password: {m.meeting_pw}</p>
+      <a href={m.meeting_link} className="button" target="_blank">
+        <span>Join Meeting</span>
+      </a>
     </article>
   );
 }

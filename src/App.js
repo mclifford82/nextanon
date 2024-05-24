@@ -28,12 +28,17 @@ function App() {
 
   return (
     <div className="App">
-      <h1>NextAnon - find your next virtual support meeting, quick</h1>
+      
+      <p className="header">NextAnon - find your next virtual support meeting, quick</p>
+      
       <div className="cards">
         {meetings.map(meeting => (
           <MeetingCard key={meeting.id} meeting={meeting} />
         ))}
       </div>
+      
+      <p className="LastUpdated">Shoutout to my signal homies. Data last updated 5/23/2024.</p>
+    
     </div>
   );
 }

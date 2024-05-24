@@ -35,3 +35,21 @@ export function getNextMeetingDate(meetingDay, meeting_time) {
     const displayMinutes = minutes.toString().padStart(2, '0');
     return `${displayHours}:${displayMinutes} ${isPM ? 'PM' : 'AM'}`;
   }
+
+  export function formatZoomMeetingCode(meetingCode) {
+    const length = meetingCode.length;
+  
+    if (length === 9) {
+      // Format as 'XXX XXX XXX'
+      return `${meetingCode.slice(0, 3)} ${meetingCode.slice(3, 6)} ${meetingCode.slice(6)}`;
+    } else if (length === 10) {
+      // Format as 'XX XXXX XXXX'
+      return `${meetingCode.slice(0, 2)} ${meetingCode.slice(2, 6)} ${meetingCode.slice(6)}`;
+    } else if (length === 11) {
+      // Format as 'XXX XXXX XXXX'
+      return `${meetingCode.slice(0, 3)} ${meetingCode.slice(3, 7)} ${meetingCode.slice(7)}`;
+    }
+  
+    return meetingCode;
+  }
+  
