@@ -5,7 +5,7 @@ import './App.scss';
 
 function App() {
   const [meetings, setMeetings] = useState([]);
-
+  
   useEffect(() => {
     fetch(process.env.PUBLIC_URL + '/data.json')
       .then(response => {
