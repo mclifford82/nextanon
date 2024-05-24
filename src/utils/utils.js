@@ -22,6 +22,9 @@ export function getNextMeetingDate(meetingDay, meeting_time) {
   
     const nextMeetingDate = new Date(today);
     nextMeetingDate.setDate(today.getDate() + daysUntilNextMeeting);
+    // Add the time to nextMeetingDate
+    const [hours, minutes] = meeting_time.split(':').map(Number);
+    nextMeetingDate.setHours(hours, minutes, 0);
     return nextMeetingDate;
   }
   

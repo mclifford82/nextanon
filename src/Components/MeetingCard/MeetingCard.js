@@ -11,11 +11,11 @@ function numberToDay(number) {
 function MeetingCard({ meeting: m }) {
   return (
     <article className="information card">
-      <h2 class="title">{m.name}</h2>
+      <h2 className="title">{m.name}</h2>
       <span className="tag">{m.meeting_type}</span>
       <p className="smol">{numberToDay(m.meeting_day)} @ {getDisplayTimeFromTwentyFourHourTime(m.meeting_time)} {m.meeting_tz}</p>
       <p className="info">{m.meeting_notes}</p>
-      <button class="button">
+      <button className="button">
         <span>Join Meeting</span>
           <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
             <path d="M0 0h24v24H0V0z" fill="none" />

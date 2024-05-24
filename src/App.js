@@ -21,9 +21,6 @@ function App() {
           const bDate = getNextMeetingDate(b.meeting_day, b.meeting_time);
           return aDate - bDate;
         });
-        // const sortedDate = data.sort((a, b) => {
-        //   return a.meeting_type.localCompare(b.meeting_type);
-        // });
         setMeetings(sortedData);
       })
       .catch(error => console.error('Error loading the data: ', error));
