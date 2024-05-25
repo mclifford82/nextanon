@@ -1,12 +1,17 @@
 import React, { useState, useEffect } from 'react';
 import MeetingCard from './Components/MeetingCard/MeetingCard';
-import { getNextMeetingDate } from './utils/utils';
+import { getLocalGMTOffset, getNextMeetingDate } from './utils/utils';
 import './App.scss';
 
 function App() {
   const [meetings, setMeetings] = useState([]);
+  const [userTimeOffset, setUserTimeOffset] = useState('');
   
   useEffect(() => {
+    // Set users local offset for other components to use
+    const offset = getLocalGMTOffset();
+    setUserTimeOffset(offset);
+
     fetch(process.env.PUBLIC_URL + '/data.json')
       .then(response => {
         if (!response.ok) {
@@ -29,15 +34,17 @@ function App() {
   return (
     <div className="App">
       
-      <p className="header">NextAnon - find your next virtual support meeting, quick</p>
-      
+      <div className="header">NextAnon - find your next virtual support meeting, quick
+        <p className="announcement">Dopey Zoom is having a Memorial Day weekend support marathon! <a href="https://zoom.us/j/804300586" target="_blank">Join at 804 300 586</a>, password: toodles</p>
+      </div>
+
       <div className="cards">
         {meetings.map(meeting => (
           <MeetingCard key={meeting.id} meeting={meeting} />
         ))}
       </div>
       
-      <p className="LastUpdated">Shoutout to my signal homies. Data last updated 5/23/2024.</p>
+      <p className="lastupdated">Shoutout to my signal homies. Data last updated 5/23/2024.</p>
     
     </div>
   );

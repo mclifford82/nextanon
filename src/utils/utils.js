@@ -36,6 +36,19 @@ export function getNextMeetingDate(meetingDay, meeting_time) {
     return `${displayHours}:${displayMinutes} ${isPM ? 'PM' : 'AM'}`;
   }
 
+  export function getLocalGMTOffset() {
+    const now = new Date();
+    const timeZoneOffsetInMinutes = now.getTimezoneOffset();
+    const offsetHours = parseInt(timeZoneOffsetInMinutes / 60);
+    const offsetMinutes = Math.abs(timeZoneOffsetInMinutes % 60);
+
+    // Construct the GMT offset string
+    const offsetSign = timeZoneOffsetInMinutes > 0 ? "-" : "+";
+    const formattedOffset = `${offsetSign}${Math.abs(offsetHours).toString().padStart(2, '0')}:${offsetMinutes.toString().padStart(2, '0')}`;
+
+    return formattedOffset;
+}
+
   export function formatZoomMeetingCode(meetingCode) {
     const length = meetingCode.length;
   
