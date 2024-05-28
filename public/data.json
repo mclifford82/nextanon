@@ -42,7 +42,7 @@
         "id": 4,
         "name": "Let's Talk Kratom",
         "meeting_type": "Kratom",
-        "meeting_link": "https://mountainside.com/resources/support-groups/",
+        "meeting_link": "https://mountainside.com/resources/support-groups/virtual/ltk-support-group/",
         "meeting_service": "Microsoft Teams",
         "meeting_pw": "None",
         "meeting_day": 2,
@@ -400,5 +400,18 @@
         "meeting_time": "22:00",
         "meeting_tz": "EST",
         "meeting_notes": "Dopey Self Actualization. Once I figure out what all these meetings are about, I'll put more specifics."
+    },
+    {
+        "id": 32,
+        "name": "There is a Way Out",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://meet.google.com/nje-jmni-hhb",
+        "meeting_service": "Google Meet",
+        "meeting_service_code": "nje-jmni-hhb",
+        "meeting_pw": "None",
+        "meeting_day": 5,
+        "meeting_time": "12:00",
+        "meeting_tz": "EST",
+        "meeting_notes": "This is a meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     }
 ]
