@@ -34,8 +34,8 @@ function App() {
   return (
     <div className="App">
       
-      <div className="header">NextAnon - find your next virtual support meeting, quick
-        <p className="announcement">Dopey Zoom is having a Memorial Day weekend support marathon! <a href="https://zoom.us/j/804300586" target="_blank">Join at 804 300 586</a>, password: toodles</p>
+      <div className="header">
+        NextAnon - find your next virtual support meeting, quick
       </div>
 
       <div className="cards">
