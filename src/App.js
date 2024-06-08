@@ -30,7 +30,7 @@ function App() {
         // Sort based on next_meeting_date_local_end, but only if the time is in the future. 
         // We use _end to sort by the end time, which allows in progress meetings to be visible
         const now = moment();
-        const sortedData = data.filter(meeting => meeting.next_meeting_date_local.isAfter(now));
+        const sortedData = data.filter(meeting => meeting.next_meeting_date_local_end.isAfter(now));
         sortedData.sort((a, b) => a.next_meeting_date_local_end - b.next_meeting_date_local_end);
 
         setMeetings(sortedData);
