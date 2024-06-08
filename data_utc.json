@@ -8,8 +8,9 @@
         "meeting_service_code": "nje-jmni-hhb",
         "meeting_pw": "None",
         "meeting_day": 2,
-        "meeting_time": "01:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 0,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "This is a meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
@@ -21,8 +22,9 @@
         "meeting_service_code": "nje-jmni-hhb",
         "meeting_pw": "None",
         "meeting_day": 4,
-        "meeting_time": "01:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 0,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "This is a meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
@@ -30,24 +32,26 @@
         "name": "There is a Way Out",
         "meeting_type": "Kratom",
         "meeting_link": "https://meet.google.com/nje-jmni-hhb",
-        "meeting_service": "Google Meetings",
+        "meeting_service": "Google Meet",
         "meeting_service_code": "nje-jmni-hhb",
         "meeting_pw": "None",
         "meeting_day": 6,
-        "meeting_time": "01:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 0,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "NOTE: Fridays are informal fun open-mic hangouts, compared to the traditional self-help meeting format. We will still hold space for those who would like to share."
     },
     {
         "id": 4,
         "name": "Let's Talk Kratom",
         "meeting_type": "Kratom",
-        "meeting_link": "https://mountainside.com/resources/support-groups/",
+        "meeting_link": "https://mountainside.com/resources/support-groups/virtual/ltk-support-group/",
         "meeting_service": "Microsoft Teams",
         "meeting_pw": "None",
-        "meeting_day": 3,
-        "meeting_time": "00:00",
-        "meeting_tz": "EST",
+        "meeting_day": 2,
+        "meeting_time_hour": 23,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Join us for an exploratory and nonjudgmental discussion on how kratom is affecting your mental and physical health."
     },
     {
@@ -59,8 +63,9 @@
         "meeting_service_code": "71704829937",
         "meeting_pw": "nokratom",
         "meeting_day": 4,
-        "meeting_time": "02:30",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 1,
+        "meeting_time_minute": 30,
+        "meeting_tz": "UTC",
         "meeting_notes": "Kratom 12 Step Program. We are a group of people who have found a solution to our addiction to Kratom."
     },
     {
@@ -72,8 +77,9 @@
         "meeting_service_code": "71704829937",
         "meeting_pw": "nokratom",
         "meeting_day": 6,
-        "meeting_time": "22:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 21,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Kratom 12 Step Program. We are a group of people who have found a solution to our addiction to Kratom."
     },
     {
@@ -85,8 +91,9 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 0,
-        "meeting_time": "20:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 19,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Join us for a supportive and nonjudgmental meeting for those struggling with Kratom addiction."
     },
     {
@@ -97,9 +104,10 @@
         "meeting_service": "Zoom",
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
-        "meeting_day": 5,
-        "meeting_time": "00:00",
-        "meeting_tz": "EST",
+        "meeting_day": 4,
+        "meeting_time_hour": 23,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Join the Dopey Nation on the road to Kratom sobriety."
     },
     {
@@ -107,12 +115,13 @@
         "name": "Quitting Kratom",
         "meeting_type": "Kratom",
         "meeting_link": "https://meet.google.com/rcq-rote-kmg",
-        "meeting_service": "Google Meetings",
+        "meeting_service": "Google Meet",
         "meeting_service_code": "rcq-rote-kmg",
         "meeting_pw": "None",
         "meeting_day": 6,
-        "meeting_time": "15:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 14,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Join us for a supportive and nonjudgmental meeting for those struggling with Kratom addiction."
     },
     {
@@ -124,8 +133,9 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 1,
-        "meeting_time": "18:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 17,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey meeting about ... birds? Hosted by Annie. Lots of bird talk."
     },
     {
@@ -136,9 +146,10 @@
         "meeting_service": "Zoom",
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
-        "meeting_day": 2,
-        "meeting_time": "00:00",
-        "meeting_tz": "EST",
+        "meeting_day": 1,
+        "meeting_time_hour": 23,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Daily Dose. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -150,8 +161,9 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 2,
-        "meeting_time": "04:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 3,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey meeting about, well, just show up and find out because I don't know."
     },
     {
@@ -163,8 +175,9 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 2,
-        "meeting_time": "16:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 15,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Narcotics Anonymous meeting. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -176,8 +189,9 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 2,
-        "meeting_time": "18:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 17,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Talking Circle. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -188,9 +202,10 @@
         "meeting_service": "Zoom",
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
-        "meeting_day": 3,
-        "meeting_time": "00:00",
-        "meeting_tz": "EST",
+        "meeting_day": 2,
+        "meeting_time_hour": 23,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Recovery Dharma. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -202,8 +217,9 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 3,
-        "meeting_time": "03:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 2,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Codependency meeting. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -215,8 +231,9 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 3,
-        "meeting_time": "16:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 15,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Early Shot meeting. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -227,9 +244,10 @@
         "meeting_service": "Zoom",
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
-        "meeting_day": 4,
-        "meeting_time": "00:00",
-        "meeting_tz": "EST",
+        "meeting_day": 3,
+        "meeting_time_hour": 23,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Daily Dose. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -241,8 +259,9 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 4,
-        "meeting_time": "03:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 2,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Hotwheels. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -254,8 +273,9 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 4,
-        "meeting_time": "18:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 17,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Souls on Deck. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -267,8 +287,9 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 5,
-        "meeting_time": "03:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 2,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Narcotics Anonymous meeting. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -280,8 +301,9 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 5,
-        "meeting_time": "18:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 17,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Early Shot meeting. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -292,9 +314,10 @@
         "meeting_service": "Zoom",
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
-        "meeting_day": 6,
-        "meeting_time": "00:00",
-        "meeting_tz": "EST",
+        "meeting_day": 5,
+        "meeting_time_hour": 17,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Daily Dose. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -306,8 +329,9 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 6,
-        "meeting_time": "03:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 2,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Speaker Meeting! Come and get inspired by one of the Dopey Nation's own as they share their journey."
     },
     {
@@ -319,8 +343,9 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 6,
-        "meeting_time": "15:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 14,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Women's Meeting. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -332,8 +357,9 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 6,
-        "meeting_time": "17:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 16,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Men's Meeting. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -344,9 +370,10 @@
         "meeting_service_code": "804300586",
         "meeting_service": "Zoom",
         "meeting_pw": "toodles",
-        "meeting_day": 0,
-        "meeting_time": "00:00",
-        "meeting_tz": "EST",
+        "meeting_day": 6,
+        "meeting_time_hour": 23,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Worst Meeting Ever. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -358,8 +385,9 @@
         "meeting_service": "Zoom",
         "meeting_pw": "toodles",
         "meeting_day": 0,
-        "meeting_time": "03:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 2,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey After Hours. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -371,8 +399,9 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 0,
-        "meeting_time": "18:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 17,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Not Birds. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -384,8 +413,9 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 0,
-        "meeting_time": "21:00",
-        "meeting_tz": "EST",
+        "meeting_time_hour": 20,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
         "meeting_notes": "Dopey Big Book. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
@@ -397,8 +427,23 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 1,
-        "meeting_time": "03:00",
-        "meeting_tz": "EST",
-        "meeting_notes": "Dopey Souls on Deck. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_time_hour": 2,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
+        "meeting_notes": "Dopey Self Actualization. Once I figure out what all these meetings are about, I'll put more specifics."
+    },
+    {
+        "id": 32,
+        "name": "There is a Way Out",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://meet.google.com/nje-jmni-hhb",
+        "meeting_service": "Google Meet",
+        "meeting_service_code": "nje-jmni-hhb",
+        "meeting_pw": "None",
+        "meeting_day": 5,
+        "meeting_time_hour": 16,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
+        "meeting_notes": "This is a meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     }
 ]
