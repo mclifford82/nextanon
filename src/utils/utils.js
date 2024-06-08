@@ -8,7 +8,6 @@ export function convertUTCToLocalTime(utcDate) {
   return moment(utcDate).add(localOffsetMinutes, 'minutes');
 }
 
-
 export function getNextMeetingDate(meetingDay, meetingHour, meetingMinutes) {
   const today = new Date();
   const todayDayOfWeek = today.getDay();
@@ -32,16 +31,6 @@ export function getNextMeetingDate(meetingDay, meetingHour, meetingMinutes) {
   const m = moment(today).add(daysUntilNextMeeting, 'days').set({hour: meetingHour, minute: meetingMinutes, second: 0, millisecond: 0});
   return m;
 }
-  
-export function getDisplayTimeFromTwentyFourHourTime(time) {
-  const [hours, minutes] = time.split(':').map(Number);
-  const isPM = hours >= 12;
-  const displayHours = hours % 12 || 12;
-  const displayMinutes = minutes.toString().padStart(2, '0');
-  return `${displayHours}:${displayMinutes} ${isPM ? 'PM' : 'AM'}`;
-}
-
-
 
 export function formatZoomMeetingCode(meetingCode) {
   const length = meetingCode.length;
