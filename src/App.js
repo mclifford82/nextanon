@@ -51,7 +51,7 @@ function App() {
         ))}
       </div>
       
-      <p className="lastupdated">Shoutout to my signal homies. Data last updated 5/23/2024.</p>
+      <p className="lastupdated">Shoutout to my signal homies. Data last updated 6/16/2024.</p>
     
     </div>
   );
