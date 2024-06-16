@@ -84,7 +84,7 @@
     },
     {
         "id": 7,
-        "name": "Dopey Kratom",
+        "name": "Dopey: Kratom",
         "meeting_type": "Kratom",
         "meeting_link": "https://zoom.us/j/804300586",
         "meeting_service": "Zoom",
@@ -98,7 +98,7 @@
     },
     {
         "id": 8,
-        "name": "Dopey Kratom",
+        "name": "Dopey: Kratom",
         "meeting_type": "Kratom",
         "meeting_link": "https://zoom.us/j/804300586",
         "meeting_service": "Zoom",
@@ -126,7 +126,7 @@
     },
     {
         "id": 10,
-        "name": "Dopey: Bird",
+        "name": "Dopey: UK Invasion",
         "meeting_type": "General",
         "meeting_link": "https://zoom.us/j/804300586",
         "meeting_service": "Zoom",
@@ -136,7 +136,7 @@
         "meeting_time_hour": 17,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey meeting about ... birds? Hosted by Annie. Lots of bird talk."
+        "meeting_notes": "Dopey UK Invasion. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
         "id": 11,
@@ -168,8 +168,8 @@
     },
     {
         "id": 13,
-        "name": "Dopey: NA",
-        "meeting_type": "NA",
+        "name": "Dopey: Book Study",
+        "meeting_type": "General",
         "meeting_link": "https://zoom.us/j/804300586",
         "meeting_service": "Zoom",
         "meeting_service_code": "804300586",
@@ -210,7 +210,7 @@
     },
     {
         "id": 16,
-        "name": "Dopey: Codependency",
+        "name": "Dopey: Take Me Home",
         "meeting_type": "General",
         "meeting_link": "https://zoom.us/j/804300586",
         "meeting_service": "Zoom",
@@ -220,7 +220,7 @@
         "meeting_time_hour": 2,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Codependency meeting. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Take Me Home meeting. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
         "id": 17,
@@ -252,7 +252,7 @@
     },
     {
         "id": 19,
-        "name": "Dopey: Hotwheels",
+        "name": "Dopey: Harm Reduction",
         "meeting_type": "General",
         "meeting_link": "https://zoom.us/j/804300586",
         "meeting_service": "Zoom",
@@ -262,7 +262,7 @@
         "meeting_time_hour": 2,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Hotwheels. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Harm Reduction. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
         "id": 20,
@@ -378,7 +378,7 @@
     },
     {
         "id": 28,
-        "name": "Dopey: After Hours",
+        "name": "Dopey: Codependency",
         "meeting_type": "General",
         "meeting_link": "https://zoom.us/j/804300586",
         "meeting_service_code": "804300586",
