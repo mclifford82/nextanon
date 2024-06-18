@@ -126,7 +126,7 @@
     },
     {
         "id": 10,
-        "name": "Dopey: UK Invasion",
+        "name": "Dopey: Dicky Bird",
         "meeting_type": "General",
         "meeting_link": "https://zoom.us/j/804300586",
         "meeting_service": "Zoom",
@@ -136,7 +136,7 @@
         "meeting_time_hour": 17,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey UK Invasion. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Dicky Bird. The Brits of Dopey join together to bring you an hour of share space."
     },
     {
         "id": 11,
@@ -150,7 +150,7 @@
         "meeting_time_hour": 23,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Daily Dose. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Daily Dose. Your daily dose of Dopey. Except on the days it doesn't happen."
     },
     {
         "id": 12,
@@ -178,7 +178,7 @@
         "meeting_time_hour": 15,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Narcotics Anonymous meeting. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Book Study. Join us as we read through recovery related books and discuss them."
     },
     {
         "id": 14,
@@ -196,7 +196,7 @@
     },
     {
         "id": 15,
-        "name": "Dopey: Recovery Dharma",
+        "name": "Dopey: Sangha",
         "meeting_type": "General",
         "meeting_link": "https://zoom.us/j/804300586",
         "meeting_service": "Zoom",
@@ -206,7 +206,7 @@
         "meeting_time_hour": 23,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Recovery Dharma. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Sangha meeting. Once I figure out what all these meetings are about, I'll put more specifics."
     },
     {
         "id": 16,
@@ -234,7 +234,7 @@
         "meeting_time_hour": 17,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Early Shot meeting. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Early Shot. Get your dose of Dopey early in the day and set the tone for the day."
     },
     {
         "id": 18,
@@ -248,7 +248,7 @@
         "meeting_time_hour": 23,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Daily Dose. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Daily Dose. Your daily dose of Dopey. Except on the days it doesn't happen."
     },
     {
         "id": 19,
@@ -290,7 +290,7 @@
         "meeting_time_hour": 2,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Narcotics Anonymous meeting. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Narcotics Anonymous meeting. For those looking for the Twelve Step NA experience, Dopey style."
     },
     {
         "id": 22,
@@ -304,7 +304,7 @@
         "meeting_time_hour": 17,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Early Shot meeting. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Early Shot meeting. Get your dose of Dopey early in the day and set the tone for the day."
     },
     {
         "id": 23,
@@ -318,7 +318,7 @@
         "meeting_time_hour": 23,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Daily Dose. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Daily Dose. Your daily dose of Dopey. Except on the days it doesn't happen."
     },
     {
         "id": 24,
@@ -346,7 +346,7 @@
         "meeting_time_hour": 14,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Women's Meeting. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Women's Meeting. A meeting space for the women of Dopey Nation to share their stories."
     },
     {
         "id": 26,
@@ -360,7 +360,7 @@
         "meeting_time_hour": 16,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Men's Meeting. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Men's Meeting. A meeting space for the men of Dopey Nation to share their stories."
     },
     {
         "id": 27,
@@ -374,7 +374,7 @@
         "meeting_time_hour": 23,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Worst Meeting Ever. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Worst Meeting Ever. Join at your own risk. Just kidding, it's a great meeting."
     },
     {
         "id": 28,
@@ -388,7 +388,7 @@
         "meeting_time_hour": 2,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey After Hours. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey After Hours. Late night hang out and share space."
     },
     {
         "id": 29,
@@ -416,7 +416,7 @@
         "meeting_time_hour": 20,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Big Book. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Big Book. Read and discuss the Big Book of AA with the Dopey Nation."
     },
     {
         "id": 31,
@@ -430,7 +430,7 @@
         "meeting_time_hour": 2,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Self Actualization. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Self Actualization. Usually has deep, introspective topics. Give your noggin something to noggin about."
     },
     {
         "id": 32,

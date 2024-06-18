@@ -11,7 +11,10 @@ function MeetingCard({ meeting: m }) {
   const ampm = m.next_meeting_date_local_ampm;
 
   let time_until = moment().to(m.next_meeting_date_local);
-  time_until = time_until.replace(/in |a /, '');
+  // remove 'in' and 'a' from time_until
+  time_until = time_until.replace(/in|a/, '').trim();
+  // if time_until contains 'ago', change it to 'in progress'. Only meetings that are in progress will have 'ago' in the time_until string
+  time_until = time_until.includes('ago') ? 'in progress' : time_until;
 
   return (
     <article className="information card">
