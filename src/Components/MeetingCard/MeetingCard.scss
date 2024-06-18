@@ -25,17 +25,17 @@
 		background-color: var(--c-titan-white);
 		color: var(--c-indigo);
 		font-weight: 600;
-		font-size: 0.8rem;
+		font-size: 0.75rem;
 		padding: 0.5em 0.75em;
 		line-height: 1;
 		border-radius: 6px;
 		& + * {
-			margin-top: 1rem;
+			margin-top: .6rem;
 		}
 	}
 
 	.title {
-		font-size: 1.5rem;
+		font-size: 1.4rem;
 		color: var(--c-void);
 		line-height: 1.25;
 		margin: 0 0 0.5rem;
@@ -44,14 +44,17 @@
 	.smol {
 		font-weight: 500;
 		line-height: 1.1rem;
-		
+	}
+
+	.smoler {
+		font-size: 0.9rem;
+		font-weight: 500;
+		line-height: 1.1rem;
 	}
 
 	.info {
 		color: var(--c-charcoal);
-		// & + * {
-		// 	margin-top: 1.25rem;
-		// }
+		font-weight: 500;
 	}
 
 	.button {
@@ -99,13 +102,3 @@
 		}
 	}
 }
-
-/* Old shit
-
-.card {
-    border: 1px solid #69C;
-    padding: 20px;
-    margin: 10px;
-    width: 30px;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
-} */
