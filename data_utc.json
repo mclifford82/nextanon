@@ -192,7 +192,7 @@
         "meeting_time_hour": 17,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Talking Circle. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Talking Circle. Do you like sage? We do too. Come and share your story in a safe space."
     },
     {
         "id": 15,
@@ -276,7 +276,7 @@
         "meeting_time_hour": 17,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Souls on Deck. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Souls on Deck. Usually has deep, introspective topics."
     },
     {
         "id": 21,
@@ -388,7 +388,7 @@
         "meeting_time_hour": 2,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey After Hours. Late night hang out and share space."
+        "meeting_notes": "Dopey Codependency. Talk about the relationship side of addiction."
     },
     {
         "id": 29,
@@ -402,7 +402,7 @@
         "meeting_time_hour": 17,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Not Birds. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Not Birds. Not brits? Not birds? I don't know, just find out."
     },
     {
         "id": 30,
