@@ -28,7 +28,7 @@ export function getNextMeetingDate(meetingDay, meetingHour, meetingMinutes) {
   }
 
   // Create moment object for next meeting date
-  const m = moment(today).add(daysUntilNextMeeting, 'days').set({hour: meetingHour, minute: meetingMinutes, second: 0, millisecond: 0});
+  const m = moment(today).add(daysUntilNextMeeting, 'days').set({hour: meetingHour+1, minute: meetingMinutes, second: 0, millisecond: 0});
   return m;
 }
 
