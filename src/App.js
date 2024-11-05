@@ -43,6 +43,9 @@ function App() {
       
       <div className="header">
         NextAnon - find your next virtual support meeting, quick
+        <div className="announcement">
+          Please go vote if you live in the United States! Thanks!
+        </div>
       </div>
 
       <div className="cards">
