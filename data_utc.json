@@ -55,34 +55,6 @@
         "meeting_notes": "Join us for an exploratory and nonjudgmental discussion on how kratom is affecting your mental and physical health."
     },
     {
-        "id": 5,
-        "name": "Kratom Anonymous",
-        "meeting_type": "Kratom",
-        "meeting_link": "https://zoom.us/j/71704829937",
-        "meeting_service": "Zoom",
-        "meeting_service_code": "71704829937",
-        "meeting_pw": "nokratom",
-        "meeting_day": 4,
-        "meeting_time_hour": 1,
-        "meeting_time_minute": 30,
-        "meeting_tz": "UTC",
-        "meeting_notes": "Kratom 12 Step Program. We are a group of people who have found a solution to our addiction to Kratom."
-    },
-    {
-        "id": 6,
-        "name": "Kratom Anonymous",
-        "meeting_type": "Kratom",
-        "meeting_link": "https://zoom.us/j/71704829937",
-        "meeting_service": "Zoom",
-        "meeting_service_code": "71704829937",
-        "meeting_pw": "nokratom",
-        "meeting_day": 6,
-        "meeting_time_hour": 21,
-        "meeting_time_minute": 0,
-        "meeting_tz": "UTC",
-        "meeting_notes": "Kratom 12 Step Program. We are a group of people who have found a solution to our addiction to Kratom."
-    },
-    {
         "id": 7,
         "name": "Dopey: Kratom",
         "meeting_type": "Kratom",
