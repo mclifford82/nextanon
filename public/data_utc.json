@@ -98,7 +98,7 @@
     },
     {
         "id": 10,
-        "name": "Dopey: Dicky Bird",
+        "name": "Dopey: Early Shot",
         "meeting_type": "General",
         "meeting_link": "https://us02web.zoom.us/j/804300586?pwd=cGticmUrUEk0RXVoKy92aUhSRVBqUT09",
         "meeting_service": "Zoom",
@@ -140,7 +140,7 @@
     },
     {
         "id": 13,
-        "name": "Dopey: Book Study",
+        "name": "Dopey: Recovering Day",
         "meeting_type": "General",
         "meeting_link": "https://us02web.zoom.us/j/804300586?pwd=cGticmUrUEk0RXVoKy92aUhSRVBqUT09",
         "meeting_service": "Zoom",
@@ -150,7 +150,7 @@
         "meeting_time_hour": 15,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Book Study. Join us as we read through recovery related books and discuss them."
+        "meeting_notes": "Dopey Recovering Day. I haven't yet been to this meeting."
     },
     {
         "id": 14,
@@ -301,7 +301,7 @@
         "meeting_service_code": "804300586",
         "meeting_pw": "toodles",
         "meeting_day": 6,
-        "meeting_time_hour": 2,
+        "meeting_time_hour": 1,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
         "meeting_notes": "Dopey Speaker Meeting! Come and get inspired by one of the Dopey Nation's own as they share their journey."
@@ -350,7 +350,7 @@
     },
     {
         "id": 28,
-        "name": "Dopey: Codependency",
+        "name": "Dopey: After Hours",
         "meeting_type": "General",
         "meeting_link": "https://us02web.zoom.us/j/804300586?pwd=cGticmUrUEk0RXVoKy92aUhSRVBqUT09",
         "meeting_service_code": "804300586",
