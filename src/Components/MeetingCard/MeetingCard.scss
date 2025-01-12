@@ -22,10 +22,24 @@
 
 	.tag {
 		display: inline-block;
-		background-color: var(--c-titan-white);
-		color: var(--c-indigo);
+		background-color: var(--c-forest);
+		color: var(--c-lightgreen);
 		font-weight: 600;
-		font-size: 0.75rem;
+		font-size: 0.80rem;
+		padding: 0.5em 0.75em;
+		line-height: 1;
+		border-radius: 6px;
+		& + * {
+			margin-top: .6rem;
+		}
+	}
+
+	.tag2 {
+		display: inline-block;
+		background-color: var(--c-indigo);
+		color: var(--c-titan-white);
+		font-weight: 600;
+		font-size: 0.80rem;
 		padding: 0.5em 0.75em;
 		line-height: 1;
 		border-radius: 6px;
@@ -55,7 +69,7 @@
 		font-weight: 500;
 	}
 
-	.button {
+	.button2 {
 		background-color: var(--c-white);
 		border: 2px solid var(--c-indigo);
 		color: var(--c-indigo);
@@ -70,6 +84,24 @@
 		&:hover {
 			background-color: var(--c-indigo);
 			color: var(--c-white);
+		}
+	}
+
+	.button {
+		background-color: var(--c-white);
+		border: 2px solid var(--c-forest);
+		color: var(--c-forest);
+		padding: 0.5em 1em;
+		border-radius: 6px;
+		font-weight: 500;
+		display: inline-flex;
+		align-items: center;
+		text-decoration: none;
+		justify-content: space-between;
+		gap: 0.5rem;
+		&:hover {
+			background-color: var(--c-forest);
+			color: var(--c-titan-white);
 		}
 	}
 	
