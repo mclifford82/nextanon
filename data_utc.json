@@ -496,7 +496,7 @@
         "meeting_service": "Google Meet",
         "meeting_service_code": "nje-jmni-hhb",
         "meeting_pw": "None",
-        "meeting_day": 3,
+        "meeting_day": 0,
         "meeting_time_hour": 16,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
