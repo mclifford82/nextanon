@@ -16,15 +16,20 @@ function MeetingCard({ meeting: m }) {
   // if time_until contains 'ago', change it to 'in progress'. Only meetings that are in progress will have 'ago' in the time_until string
   time_until = time_until.includes('ago') ? 'in progress' : time_until;
 
+  let meeting_display_time = `${local_weekday} @ ${local_hour}:${local_minute} ${ampm}`;
+  let meeting_display_service = `${m.meeting_service}: ${ m.meeting_service === "Zoom" ? formatZoomMeetingCode(m.meeting_service_code) : m.meeting_service_code }`;
+  let meeting_display_password = `Password: ${m.meeting_pw}`;
+  let meeting_link_class_name = m.meeting_type === "Kratom" ? "button" : "button2";
+
   return (
     <article className="information card">
       <h2 className="title">{m.name}</h2>
       <span className={m.meeting_type === "Kratom" ? "tag" : "tag2"}>{m.meeting_type}</span>
-      <p className="smol">{local_weekday} @ {local_hour}:{local_minute} {ampm} <em className="smoler">({time_until})</em></p>
+      <p className="smol">{meeting_display_time} <em className="smoler">({time_until})</em></p>
       <p className="info">{m.meeting_notes}</p>
-      <p className="smol">{m.meeting_service}: { m.meeting_service === "Zoom" ? formatZoomMeetingCode(m.meeting_service_code) : m.meeting_service_code }</p>
-      <p className="smol">Password: {m.meeting_pw}</p>
-      <a href={m.meeting_link} className={m.meeting_type === "Kratom" ? "button" : "button2"} target="_blank" rel="noreferrer">
+      <p className="smol">{meeting_display_service}</p>
+      <p className="smol">{meeting_display_password}</p>
+      <a href={m.meeting_link} className={meeting_link_class_name} target="_blank" rel="noreferrer">
         <span>Join Meeting</span>
       </a>
     </article>
