@@ -19,12 +19,12 @@ function MeetingCard({ meeting: m }) {
   let meeting_display_time = `${local_weekday} @ ${local_hour}:${local_minute} ${ampm}`;
   let meeting_display_service = `${m.meeting_service}: ${ m.meeting_service === "Zoom" ? formatZoomMeetingCode(m.meeting_service_code) : m.meeting_service_code }`;
   let meeting_display_password = `Password: ${m.meeting_pw}`;
-  let meeting_link_class_name = m.meeting_type === "Kratom" ? "button" : "button2";
-
+  let meeting_link_class_name = m.meeting_type === "Dopey" ? "button2" : "button";
+  
   return (
     <article className="information card">
       <h2 className="title">{m.name}</h2>
-      <span className={m.meeting_type === "Kratom" ? "tag" : "tag2"}>{m.meeting_type}</span>
+      <span className={m.meeting_type === "Dopey" ? "tag2" : "tag"}>{m.meeting_type}</span>
       <p className="smol">{meeting_display_time} <em className="smoler">({time_until})</em></p>
       <p className="info">{m.meeting_notes}</p>
       <p className="smol">{meeting_display_service}</p>
