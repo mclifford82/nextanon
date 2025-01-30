@@ -489,7 +489,7 @@
         "meeting_notes": "This is a meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
-        "id": 36,
+        "id": 37,
         "name": "TIAWO: Men's Meeting",
         "meeting_type": "Kratom",
         "meeting_link": "https://meet.google.com/nje-jmni-hhb",
@@ -503,7 +503,7 @@
         "meeting_notes": "This is a men's meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
-        "id": 36,
+        "id": 38,
         "name": "TIAWO: Women's Meeting",
         "meeting_type": "Kratom",
         "meeting_link": "https://meet.google.com/nje-jmni-hhb",
@@ -517,7 +517,7 @@
         "meeting_notes": "This is a women's meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
-        "id": 16,
+        "id": 39,
         "name": "There is a Way Out",
         "meeting_type": "Kratom",
         "meeting_link": "https://meet.google.com/nje-jmni-hhb",
@@ -529,5 +529,19 @@
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
         "meeting_notes": "This is a meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
+    },
+    {
+        "id": 40,
+        "name": "Feel Free Recovery",
+        "meeting_type": "Feel Free",
+        "meeting_link": "https://meet.google.com/vmd-dpgs-ajo",
+        "meeting_service": "Google Meet",
+        "meeting_service_code": "vmd-dpgs-ajo",
+        "meeting_pw": "None",
+        "meeting_day": 5,
+        "meeting_time_hour": 1,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
+        "meeting_notes": "Join us to find a supportive community in quitting Feel Free."
     }
 ]
