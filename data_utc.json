@@ -543,5 +543,19 @@
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
         "meeting_notes": "Join us to find a supportive community in quitting Feel Free."
+    },
+    {
+        "id": 41,
+        "name": "TIAWO: LGBT",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://meet.google.com/nje-jmni-hhb",
+        "meeting_service": "Google Meet",
+        "meeting_service_code": "nje-jmni-hhb",
+        "meeting_pw": "None",
+        "meeting_day": 6,
+        "meeting_time_hour": 16,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
+        "meeting_notes": "This is a meeting for our LGBT members who struggle with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     }
 ]
