@@ -52,7 +52,7 @@
         "meeting_time_hour": 23,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Join us for an exploratory and nonjudgmental discussion on how kratom is affecting your mental and physical health."
+        "meeting_notes": "Join the professionals at Mountainside for an exploratory and nonjudgmental discussion on how kratom is affecting your mental and physical health."
     },
     {
         "id": 5,
@@ -122,7 +122,7 @@
         "meeting_time_hour": 17,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Dicky Bird. The Brits of Dopey join together to bring you an hour of share space."
+        "meeting_notes": "Dopey Early Shot meeting. Get your dose of Dopey early in the day and set the tone for the day."
     },
     {
         "id": 11,
@@ -178,11 +178,11 @@
         "meeting_time_hour": 17,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Talking Circle. Do you like sage? We do too. Come and share your story in a safe space."
+        "meeting_notes": "Dopey Talking Circle. Do you like sage? We do too. Healing with a Native American perspective."
     },
     {
         "id": 15,
-        "name": "Sangha",
+        "name": "Sangha (Community)",
         "meeting_type": "Dopey",
         "meeting_link": "https://us02web.zoom.us/j/804300586?pwd=cGticmUrUEk0RXVoKy92aUhSRVBqUT09",
         "meeting_service": "Zoom",
@@ -192,7 +192,7 @@
         "meeting_time_hour": 23,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey Sangha meeting. Once I figure out what all these meetings are about, I'll put more specifics."
+        "meeting_notes": "Dopey Sangha meeting. Join us to explore Recovery Dharma principles and find some community."
     },
     {
         "id": 16,
@@ -374,7 +374,7 @@
         "meeting_time_hour": 2,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Dopey After Hours. Spend a late night with the Dopey crew.."
+        "meeting_notes": "Dopey After Hours. Spend a late night with the Dopey crew."
     },
     {
         "id": 29,
@@ -500,7 +500,7 @@
         "meeting_time_hour": 16,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "This is a men's meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
+        "meeting_notes": "This is a men's meeting for those who are struggling with Kratom addiction. This meeting is for men only."
     },
     {
         "id": 38,
@@ -514,7 +514,7 @@
         "meeting_time_hour": 16,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "This is a women's meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
+        "meeting_notes": "This is a women's meeting for those who are struggling with Kratom addiction. This meeting is for women only."
     },
     {
         "id": 39,
