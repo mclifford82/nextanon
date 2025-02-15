@@ -532,7 +532,7 @@
     },
     {
         "id": 40,
-        "name": "Feel Free Recovery",
+        "name": "Feel Free & 7OH",
         "meeting_type": "Feel Free",
         "meeting_link": "https://meet.google.com/vmd-dpgs-ajo",
         "meeting_service": "Google Meet",
@@ -542,7 +542,7 @@
         "meeting_time_hour": 1,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Join us to find a supportive community in quitting Feel Free."
+        "meeting_notes": "Join us to find a supportive community in quitting Feel Free and/or 7OH."
     },
     {
         "id": 41,
