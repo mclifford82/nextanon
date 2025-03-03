@@ -11,7 +11,7 @@
         "meeting_time_hour": 0,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "This is a meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
+        "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
         "id": 2,
@@ -25,7 +25,7 @@
         "meeting_time_hour": 0,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "This is a meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
+        "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
         "id": 3,
@@ -39,7 +39,7 @@
         "meeting_time_hour": 0,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "NOTE: Fridays are informal fun open-mic hangouts, compared to the traditional self-help meeting format. We will still hold space for those who would like to share."
+        "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
         "id": 4,
@@ -52,7 +52,7 @@
         "meeting_time_hour": 23,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Join the professionals at Mountainside for an exploratory and nonjudgmental discussion on how kratom is affecting your mental and physical health."
+        "meeting_notes": "Join the professionals at Mountainside for an exploratory and nonjudgmental discussion on how Kratom is affecting your mental and physical health."
     },
     {
         "id": 5,
@@ -67,6 +67,20 @@
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
         "meeting_notes": "Kratom Anonymous - 12 Step Group."
+    },
+    {
+        "id": 7,
+        "name": "Dopey Kratom",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://us02web.zoom.us/j/804300586?pwd=cGticmUrUEk0RXVoKy92aUhSRVBqUT09",
+        "meeting_service": "Zoom",
+        "meeting_service_code": "804300586",
+        "meeting_pw": "toodles",
+        "meeting_day": 0,
+        "meeting_time_hour": 19,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
+        "meeting_notes": "Join us for a supportive and nonjudgmental meeting for those struggling with Kratom addiction."
     },
     {
         "id": 9,
@@ -94,7 +108,7 @@
         "meeting_time_hour": 16,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "This is a meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
+        "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
         "id": 33,
@@ -108,7 +122,7 @@
         "meeting_time_hour": 0,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "This is a meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
+        "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
         "id": 34,
@@ -122,7 +136,7 @@
         "meeting_time_hour": 0,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "This is a meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
+        "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
         "id": 35,
@@ -136,7 +150,7 @@
         "meeting_time_hour": 0,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "This is a meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
+        "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
         "id": 36,
@@ -150,11 +164,11 @@
         "meeting_time_hour": 0,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "This is a meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
+        "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
         "id": 37,
-        "name": "TIAWO: Men's Meeting",
+        "name": "TIAWO Men's Meeting",
         "meeting_type": "Kratom",
         "meeting_link": "https://meet.google.com/nje-jmni-hhb",
         "meeting_service": "Google Meet",
@@ -164,11 +178,11 @@
         "meeting_time_hour": 16,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "This is a men's meeting for those who are struggling with Kratom addiction. This meeting is for men only."
+        "meeting_notes": "There is a Way Out hosts a men's meeting for those who are struggling with Kratom addiction. This meeting is for men only."
     },
     {
         "id": 38,
-        "name": "TIAWO: Women's Meeting",
+        "name": "TIAWO Women's Meeting",
         "meeting_type": "Kratom",
         "meeting_link": "https://meet.google.com/nje-jmni-hhb",
         "meeting_service": "Google Meet",
@@ -178,7 +192,7 @@
         "meeting_time_hour": 16,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "This is a women's meeting for those who are struggling with Kratom addiction. This meeting is for women only."
+        "meeting_notes": "There is a Way Out hosts a women's meeting for those who are struggling with Kratom addiction. This meeting is for women only."
     },
     {
         "id": 39,
@@ -192,7 +206,7 @@
         "meeting_time_hour": 2,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "This is a meeting for those who are struggling with Kratom addiction. We are here to help you find a way out of the darkness and into the light. Please join us and share your story."
+        "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
         "id": 40,
@@ -210,7 +224,7 @@
     },
     {
         "id": 41,
-        "name": "TIAWO: LGBTQIA+",
+        "name": "TIAWO LGBTQIA+",
         "meeting_type": "Kratom",
         "meeting_link": "https://meet.google.com/nje-jmni-hhb",
         "meeting_service": "Google Meet",
@@ -220,6 +234,6 @@
         "meeting_time_hour": 16,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "This is a meeting for our LGBTQIA+ members who struggle with Kratom addiction. Allies are welcome!"
+        "meeting_notes": "There is a Way Out hosts an LGBTQIA+ meeting for those who struggle with Kratom addiction. Allies are welcome!"
     }
 ]
