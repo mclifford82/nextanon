@@ -24,7 +24,6 @@ function MeetingCard({ meeting: m }) {
   return (
     <article className="information card">
       <h2 className="title">{m.name}</h2>
-      <span className={m.meeting_type === "Dopey" ? "tag2" : "tag"}>{m.meeting_type}</span>
       <p className="smol">{meeting_display_time} <em className="smoler">({time_until})</em></p>
       <p className="info">{m.meeting_notes}</p>
       <p className="smol">{meeting_display_service}</p>

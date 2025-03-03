@@ -42,7 +42,8 @@ function App() {
     <div className="App">
       
       <div className="header">
-        NextAnon - find your next virtual support meeting, quick
+        NextAnon<br />
+        find your next virtual Kratom support meeting, quick
       </div>
 
       <div className="cards">
@@ -52,7 +53,7 @@ function App() {
       </div>
       
       <p className="lastupdated">
-        Shoutout to my signal/dopey homies. Data last updated 2/23/2025.<br />
+        Shoutout to my signal homies. Data last updated 3/3/2025.<br />
         <img src={process.env.PUBLIC_URL + '/yosh.png'} alt="Yoshi the Nerd" />
       </p>
           
