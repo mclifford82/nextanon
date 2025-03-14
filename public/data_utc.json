@@ -83,6 +83,20 @@
         "meeting_notes": "Join us for a supportive and nonjudgmental meeting for those struggling with Kratom addiction."
     },
     {
+        "id": 8,
+        "name": "Dopey: Kratom",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://us02web.zoom.us/j/804300586?pwd=cGticmUrUEk0RXVoKy92aUhSRVBqUT09",
+        "meeting_service": "Zoom",
+        "meeting_service_code": "804300586",
+        "meeting_pw": "toodles",
+        "meeting_day": 4,
+        "meeting_time_hour": 23,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
+        "meeting_notes": "Join the Dopey Nation on the road to Kratom sobriety. Be aware that this meeting usually has a lot of non-Kratom participants. For an all Kratom meeting, go on Sunday."
+    },
+    {
         "id": 9,
         "name": "Quitting Kratom",
         "meeting_type": "Kratom",

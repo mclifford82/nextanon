@@ -53,7 +53,7 @@ function App() {
       </div>
       
       <p className="lastupdated">
-        Shoutout to my signal homies. Data last updated 3/3/2025.<br />
+        Shoutout to my signal homies. Data last updated 3/14/2025 🥧<br />
         <img src={process.env.PUBLIC_URL + '/yosh.png'} alt="Yoshi the Nerd" />
       </p>
           
