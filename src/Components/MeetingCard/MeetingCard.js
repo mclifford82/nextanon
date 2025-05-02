@@ -26,8 +26,8 @@ function MeetingCard({ meeting: m }) {
       <h2 className="title">{m.name}</h2>
       <p className="smol">{meeting_display_time} <em className="smoler">({time_until})</em></p>
       <p className="info">{m.meeting_notes}</p>
-      <p className="smol">{meeting_display_service}</p>
-      <p className="smol">{meeting_display_password}</p>
+      {/*<p className="smol">{meeting_display_service}</p>
+      <p className="smol">{meeting_display_password}</p>*/}
       <a href={m.meeting_link} className={meeting_link_class_name} target="_blank" rel="noreferrer">
         <span>Join Meeting</span>
       </a>

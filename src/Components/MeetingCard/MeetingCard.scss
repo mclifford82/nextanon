@@ -57,6 +57,7 @@
 
 	.smol {
 		font-weight: 500;
+		line-height: 0.8;
 	}
 
 	.smoler {
@@ -99,9 +100,11 @@
 		text-decoration: none;
 		justify-content: space-between;
 		gap: 0.5rem;
+		transition: transform .2s linear;
 		&:hover {
 			background-color: var(--c-forest);
 			color: var(--c-titan-white);
+			transform: scale(1.05);
 		}
 	}
 	

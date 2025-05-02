@@ -53,7 +53,8 @@ function App() {
       </div>
       
       <p className="lastupdated">
-        Shoutout to my signal homies. Data last updated 3/14/2025 🥧<br />
+        Shoutout to my signal homies. Data last updated 5/1/2025 🌷<br />
+        Site by <a href="https://missingcomma.dev" target="_blank">Martin</a><br />
         <img src={process.env.PUBLIC_URL + '/yosh.png'} alt="Yoshi the Nerd" />
       </p>
           
