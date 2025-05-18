@@ -17,8 +17,8 @@ function MeetingCard({ meeting: m }) {
   time_until = time_until.includes('ago') ? 'in progress' : time_until;
 
   let meeting_display_time = `${local_weekday} @ ${local_hour}:${local_minute} ${ampm}`;
-  let meeting_display_service = `${m.meeting_service}: ${ m.meeting_service === "Zoom" ? formatZoomMeetingCode(m.meeting_service_code) : m.meeting_service_code }`;
-  let meeting_display_password = `Password: ${m.meeting_pw}`;
+  // let meeting_display_service = `${m.meeting_service}: ${ m.meeting_service === "Zoom" ? formatZoomMeetingCode(m.meeting_service_code) : m.meeting_service_code }`;
+  // let meeting_display_password = `Password: ${m.meeting_pw}`;
   let meeting_link_class_name = m.meeting_type === "Dopey" ? "button2" : "button";
   
   return (
