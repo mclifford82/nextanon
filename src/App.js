@@ -6,6 +6,7 @@ import './App.scss';
 
 function App() {
   const [meetings, setMeetings] = useState([]);
+  const [meetingCount, setMeetingCount] = useState(0);
   
   useEffect(() => {
     fetch(process.env.PUBLIC_URL + '/data_utc.json')
@@ -16,6 +17,7 @@ function App() {
         return response.json();
       })
       .then(data => {
+        
         // Update meetings with useful information
         data.forEach(meeting => {
           meeting.next_meeting_date_utc = getNextMeetingDate(meeting.meeting_day, meeting.meeting_time_hour, meeting.meeting_time_minute);
@@ -32,8 +34,12 @@ function App() {
         const now = moment();
         const sortedData = data.filter(meeting => meeting.next_meeting_date_local_end.isAfter(now));
         sortedData.sort((a, b) => a.next_meeting_date_local_end - b.next_meeting_date_local_end);
-
+        
+        // Get meeting count and set it in state
+        setMeetingCount(sortedData.length);
+        // Set the sorted meetings in state
         setMeetings(sortedData);
+
       })
       .catch(error => console.error('Error loading the data: ', error));
   }, []);
@@ -43,7 +49,7 @@ function App() {
       
       <div className="header">
         NextAnon<br />
-        find your next virtual Kratom support meeting, quick
+        find online Kratom support, we have {meetingCount} meetings a week
       </div>
 
       <div className="cards">
@@ -53,7 +59,7 @@ function App() {
       </div>
       
       <p className="lastupdated">
-        Shoutout to my Signal homies. Data last updated 5/31/2025 🌷<br />
+        Shoutout to my Signal homies. Data last updated 6/1/2025 🌷<br />
         <img src={process.env.PUBLIC_URL + '/yosh.png'} alt="Yoshi the Nerd" />
       </p>
           
