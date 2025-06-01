@@ -49,7 +49,7 @@ function App() {
       
       <div className="header">
         NextAnon<br />
-        find online Kratom support, we have {meetingCount} meetings a week
+        find your next virtual Kratom support meeting, quick
       </div>
 
       <div className="cards">
