@@ -384,5 +384,19 @@
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
         "meeting_notes": "Join the Dopey Nation on the road to Kratom sobriety. Be aware that this meeting usually has a lot of non-Kratom participants. For an all Kratom meeting, go on Sunday."
+    },
+    {
+        "id": 53,
+        "name": "Feel Free & 7OH",
+        "meeting_type": "Feel Free",
+        "meeting_link": "https://meet.google.com/vmd-dpgs-ajo",
+        "meeting_service": "Google Meet",
+        "meeting_service_code": "vmd-dpgs-ajo",
+        "meeting_pw": "None",
+        "meeting_day": 1,
+        "meeting_time_hour": 1,
+        "meeting_time_minute": 15,
+        "meeting_tz": "UTC",
+        "meeting_notes": "Join us to find a supportive community in quitting Feel Free and/or 7OH."
     }
 ]

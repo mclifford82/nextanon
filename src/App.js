@@ -6,7 +6,6 @@ import './App.scss';
 
 function App() {
   const [meetings, setMeetings] = useState([]);
-  const [meetingCount, setMeetingCount] = useState(0);
   
   useEffect(() => {
     fetch(process.env.PUBLIC_URL + '/data_utc.json')
@@ -35,8 +34,6 @@ function App() {
         const sortedData = data.filter(meeting => meeting.next_meeting_date_local_end.isAfter(now));
         sortedData.sort((a, b) => a.next_meeting_date_local_end - b.next_meeting_date_local_end);
         
-        // Get meeting count and set it in state
-        setMeetingCount(sortedData.length);
         // Set the sorted meetings in state
         setMeetings(sortedData);
 
@@ -59,7 +56,7 @@ function App() {
       </div>
       
       <p className="lastupdated">
-        Shoutout to my Signal homies. Data last updated 6/1/2025 🌷<br />
+        Shoutout to my Signal homies. Data last updated 6/2/2025 ☀️<br />
         <img src={process.env.PUBLIC_URL + '/yosh.png'} alt="Yoshi the Nerd" />
       </p>
           
