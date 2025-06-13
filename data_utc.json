@@ -98,7 +98,7 @@
     },
     {
         "id": 9,
-        "name": "Quitting Kratom (on hold)",
+        "name": "Quitting Kratom",
         "meeting_type": "Kratom",
         "meeting_link": "https://meet.google.com/nje-jmni-hhb",
         "meeting_service": "Google Meet",
@@ -108,7 +108,7 @@
         "meeting_time_hour": 14,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "Join us for a supportive and nonjudgmental meeting for those struggling with Kratom addiction."
+        "meeting_notes": "Join us for a supportive and nonjudgmental meeting for those struggling with Kratom addiction. Meeting uses TIAWO's Google space for now."
     },
     {
         "id": 32,
@@ -385,7 +385,7 @@
         "meeting_notes": "Join us to find a supportive community in quitting Feel Free and/or 7OH."
     },
     {
-        "id": 53,
+        "id": 54,
         "name": "There is a Way Out",
         "meeting_type": "Kratom",
         "meeting_link": "https://meet.google.com/nje-jmni-hhb",
@@ -394,6 +394,21 @@
         "meeting_pw": "None",
         "meeting_day": 7,
         "meeting_time_hour": 14,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
+        "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light."
+    },
+    {
+        "id": 55,
+        "name": "There is a Way Out",
+        "weekday": "Friday",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://meet.google.com/nje-jmni-hhb",
+        "meeting_service": "Google Meet",
+        "meeting_service_code": "nje-jmni-hhb",
+        "meeting_pw": "None",
+        "meeting_day": 6,
+        "meeting_time_hour": 0,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
         "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light."
