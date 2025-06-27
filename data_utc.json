@@ -36,7 +36,7 @@
         "meeting_service_code": "nje-jmni-hhb",
         "meeting_pw": "None",
         "meeting_day": 6,
-        "meeting_time_hour": 14,
+        "meeting_time_hour": 12,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
         "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light. Please join us and share your story."
@@ -95,20 +95,6 @@
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
         "meeting_notes": "Join the Dopey Nation on the road to Kratom sobriety. Be aware that this meeting usually has a lot of non-Kratom participants. For an all Kratom meeting, go on Sunday."
-    },
-    {
-        "id": 9,
-        "name": "Quitting Kratom",
-        "meeting_type": "Kratom",
-        "meeting_link": "https://meet.google.com/nje-jmni-hhb",
-        "meeting_service": "Google Meet",
-        "meeting_service_code": "rcq-rote-kmg",
-        "meeting_pw": "None",
-        "meeting_day": 6,
-        "meeting_time_hour": 14,
-        "meeting_time_minute": 0,
-        "meeting_tz": "UTC",
-        "meeting_notes": "Join us for a supportive and nonjudgmental meeting for those struggling with Kratom addiction. Meeting uses TIAWO's Google space for now."
     },
     {
         "id": 32,
@@ -393,7 +379,7 @@
         "meeting_service_code": "nje-jmni-hhb",
         "meeting_pw": "None",
         "meeting_day": 7,
-        "meeting_time_hour": 14,
+        "meeting_time_hour": 12,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
         "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light."
