@@ -168,7 +168,7 @@
     },
     {
         "id": 37,
-        "name": "TIAWO Men's Meeting",
+        "name": "TIAWO Mornings",
         "meeting_type": "Kratom",
         "meeting_link": "https://meet.google.com/nje-jmni-hhb",
         "meeting_service": "Google Meet",
@@ -178,11 +178,11 @@
         "meeting_time_hour": 16,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "There is a Way Out hosts a men's meeting for those who are struggling with Kratom addiction. This meeting is for men only."
+        "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
         "id": 38,
-        "name": "TIAWO Women's Meeting",
+        "name": "TIAWO Mornings",
         "meeting_type": "Kratom",
         "meeting_link": "https://meet.google.com/nje-jmni-hhb",
         "meeting_service": "Google Meet",
@@ -192,7 +192,7 @@
         "meeting_time_hour": 16,
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
-        "meeting_notes": "There is a Way Out hosts a women's meeting for those who are struggling with Kratom addiction. This meeting is for women only."
+        "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
         "id": 39,
