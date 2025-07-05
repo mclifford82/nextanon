@@ -168,7 +168,8 @@
     },
     {
         "id": 37,
-        "name": "TIAWO Mornings",
+        "name": "TIAWO Afternoon",
+        "weekday": "Sunday",
         "meeting_type": "Kratom",
         "meeting_link": "https://meet.google.com/nje-jmni-hhb",
         "meeting_service": "Google Meet",
@@ -373,6 +374,7 @@
     {
         "id": 54,
         "name": "There is a Way Out",
+        "weekday": "Sunday",
         "meeting_type": "Kratom",
         "meeting_link": "https://meet.google.com/nje-jmni-hhb",
         "meeting_service": "Google Meet",
@@ -398,19 +400,5 @@
         "meeting_time_minute": 0,
         "meeting_tz": "UTC",
         "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light."
-    },
-    {
-        "id": 56,
-        "name": "TIAWO Morning Meeting",
-        "meeting_type": "Kratom",
-        "meeting_link": "https://meet.google.com/nje-jmni-hhb",
-        "meeting_service": "Google Meet",
-        "meeting_service_code": "nje-jmni-hhb",
-        "meeting_pw": "None",
-        "meeting_day": 0,
-        "meeting_time_hour": 10,
-        "meeting_time_minute": 0,
-        "meeting_tz": "UTC",
-        "meeting_notes": "Get your day started off right with a TIAWO meeting! Together we'll find our way out."
     }
 ]
