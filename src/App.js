@@ -32,10 +32,10 @@ function App() {
         // We use _end to sort by the end time, which allows in progress meetings to be visible
         const now = moment();
         const sortedData = data.filter(meeting => meeting.next_meeting_date_local_end.isAfter(now));
-        data.sort((a, b) => a.next_meeting_date_local_end - b.next_meeting_date_local_end);
+        sortedData.sort((a, b) => a.next_meeting_date_local_end - b.next_meeting_date_local_end);
         
         // Set the sorted meetings in state
-        setMeetings(data);
+        setMeetings(sortedData);
 
       })
       .catch(error => console.error('Error loading the data: ', error));
