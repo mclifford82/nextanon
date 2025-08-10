@@ -191,6 +191,38 @@
         "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light. Please join us and share your story."
     },
     {
+        "id": 69,
+        "name": "Men's Kratom Meeting",
+        "meeting_time_desc": "Sunday Morning",
+        "weekday": "Sunday",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://meet.google.com/opv-nfua-bwt",
+        "meeting_service": "Google Meet",
+        "meeting_service_code": "nje-jmni-hhb",
+        "meeting_pw": "None",
+        "meeting_day": 0,
+        "meeting_time_hour": 15,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
+        "meeting_notes": "An independent men's meeting for those looking to kick Kratom to the curb."
+    },
+    {
+        "id": 70,
+        "name": "TIAWO Mornings",
+        "meeting_time_desc": "Sunday Morning",
+        "weekday": "Sunday",
+        "meeting_type": "Kratom",
+        "meeting_link": "https://meet.google.com/cza-tyjv-fun",
+        "meeting_service": "Google Meet",
+        "meeting_service_code": "nje-jmni-hhb",
+        "meeting_pw": "None",
+        "meeting_day": 0,
+        "meeting_time_hour": 12,
+        "meeting_time_minute": 0,
+        "meeting_tz": "UTC",
+        "meeting_notes": "For those who are struggling with Kratom addiction, we are here to help you find a way out of the darkness and into the light. Please join us and share your story."
+    },
+    {
         "id": 38,
         "name": "TIAWO Mornings",
         "meeting_time_desc": "Tuesday Morning",
