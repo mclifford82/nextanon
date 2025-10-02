@@ -47,6 +47,9 @@ function App() {
       <div className="header">
         NextAnon<br />
         find your next virtual Kratom support meeting, quick
+        <div className="announcement">
+          Keep politics out of our meetings. Go to <a href="https://www.reddit.com/r/PoliticalDiscussion/" target="_blank">reddit</a> if you can't control yourself. 😀
+        </div>
       </div>
 
       <div className="cards">
