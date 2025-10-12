@@ -1,69 +1,18 @@
-import React, { useState, useEffect } from 'react';
-import moment from 'moment-timezone';
-import MeetingCard from './Components/MeetingCard/MeetingCard';
-import { convertUTCToLocalTime, getNextMeetingDate } from './utils/utils';
 import './App.scss';
 
 function App() {
-  const [meetings, setMeetings] = useState([]);
-  
-  useEffect(() => {
-    fetch(process.env.PUBLIC_URL + '/data_utc.json')
-      .then(response => {
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
-        }
-        return response.json();
-      })
-      .then(data => {
-        
-        // Update meetings with useful information
-        data.forEach(meeting => {
-          meeting.next_meeting_date_utc = getNextMeetingDate(meeting.meeting_day, meeting.meeting_time_hour, meeting.meeting_time_minute);
-          meeting.next_meeting_date_local = moment(convertUTCToLocalTime(meeting.next_meeting_date_utc));
-          meeting.next_meeting_date_local_end = meeting.next_meeting_date_local.clone().add(1, 'hour');
-          // For display
-          meeting.next_meeting_date_local_hour = meeting.next_meeting_date_local.format('H');
-          meeting.next_meeting_date_local_minute = meeting.next_meeting_date_local.format('mm');
-          meeting.next_meeting_date_local_ampm = meeting.next_meeting_date_local.format('A');
-        });
-
-        // Sort based on next_meeting_date_local_end, but only if the time is in the future. 
-        // We use _end to sort by the end time, which allows in progress meetings to be visible
-        const now = moment();
-        const sortedData = data.filter(meeting => meeting.next_meeting_date_local_end.isAfter(now));
-        sortedData.sort((a, b) => a.next_meeting_date_local_end - b.next_meeting_date_local_end);
-        
-        // Set the sorted meetings in state
-        setMeetings(sortedData);
-
-      })
-      .catch(error => console.error('Error loading the data: ', error));
-  }, []);
-
   return (
-    <div className="App">
-      
-      <div className="header">
-        NextAnon<br />
-        find your next virtual Kratom support meeting, quick
-        <div className="announcement">
-          Keep politics out of our meetings. Go to <a href="https://www.reddit.com/r/PoliticalDiscussion/" target="_blank">reddit</a> if you can't control yourself. 😀
-        </div>
+    <>
+      <div class="noise"></div>
+      <div class="overlay"></div>
+      <div class="terminal">
+        <h1><span class="errorcode">500</span> service unavailable</h1>
+        <p class="output">Nextanon has taken <span class="errorcode">42069</span> damage and has been felled.</p>
+        <p class="output">I'm no longer part of the TIAWO community and have no interest in promoting their meetings. That's all the detail I'm going into.</p>
+        <p class="output">Do whatever you need to do to stay off Kratom. Your recovery is your own. Guard it with your life.</p>
+        <p class="output">Deuces. ✌</p>
       </div>
-
-      <div className="cards">
-        {meetings.map(meeting => (
-          <MeetingCard key={meeting.id} meeting={meeting} />
-        ))}
-      </div>
-      
-      <p className="lastupdated">
-        Data last updated 9/6/2025 🍂<br />
-        <img src={process.env.PUBLIC_URL + '/yosh.png'} alt="Yoshi the Nerd" />
-      </p>
-          
-    </div>
+    </>
   );
 }
 
